@@ -1,0 +1,411 @@
+{
+  "source": "https://cantinhodaprofjuliana.com.br/",
+  "discovered": 45,
+  "items": [
+    {
+      "title": "100 atividades para maternal",
+      "category": "Apostilas",
+      "path": "pdfs/leona/apostila-09.pdf",
+      "url": "https://cantinhodaprofjuliana.com.br/pdfs/leona/apostila-09.pdf",
+      "bytes": 199350,
+      "sha256": "c61b598250a5a2ae749979f4ef19402bb59ec8a3dd4c34957fd42197aa588825",
+      "status": "ok"
+    },
+    {
+      "title": "100 atividades Â· 2 anos",
+      "category": "Apostilas",
+      "path": "pdfs/leona/apostila-10.pdf",
+      "url": "https://cantinhodaprofjuliana.com.br/pdfs/leona/apostila-10.pdf",
+      "bytes": 208936,
+      "sha256": "2759c9acba7d48b1732a727794195ede25ffa90033b7e0ecc60eced9df1509d6",
+      "status": "ok"
+    },
+    {
+      "title": "100 atividades Â· 3 anos",
+      "category": "Apostilas",
+      "path": "pdfs/leona/apostila-11.pdf",
+      "url": "https://cantinhodaprofjuliana.com.br/pdfs/leona/apostila-11.pdf",
+      "bytes": 215954,
+      "sha256": "b2b855d1c42bfd4471be14f7b39142575d511bdabe12891826aaef72b1d051c4",
+      "status": "ok"
+    },
+    {
+      "title": "100 atividades Â· 4 anos",
+      "category": "Apostilas",
+      "path": "pdfs/leona/apostila-13.pdf",
+      "url": "https://cantinhodaprofjuliana.com.br/pdfs/leona/apostila-13.pdf",
+      "bytes": 225163,
+      "sha256": "f4ccef8914088bb21e13da87838a5b2705a19e5d608a75a6e267c8fb3249c463",
+      "status": "ok"
+    },
+    {
+      "title": "100 atividades Â· 5 anos",
+      "category": "Apostilas",
+      "path": "pdfs/leona/apostila-14.pdf",
+      "url": "https://cantinhodaprofjuliana.com.br/pdfs/leona/apostila-14.pdf",
+      "bytes": 240219,
+      "sha256": "b330696815f913925cb2420943e6e0ca55b455cb40815a6f3bfff95104fc8446",
+      "status": "ok"
+    },
+    {
+      "title": "120 dinÃ¢micas sensoriais",
+      "category": "Apostilas",
+      "path": "pdfs/leona/apostila-04.pdf",
+      "url": "https://cantinhodaprofjuliana.com.br/pdfs/leona/apostila-04.pdf",
+      "bytes": 13531009,
+      "sha256": "ab5c7017c1ad75aa8c045eec50557e3f25affbe741fa34e496077f183ace24db",
+      "status": "ok"
+    },
+    {
+      "title": "AlfabetizaÃ§Ã£o: letras e sÃ­labas",
+      "category": "Apostilas",
+      "path": "pdfs/leona/apostila-03.pdf",
+      "url": "https://cantinhodaprofjuliana.com.br/pdfs/leona/apostila-03.pdf",
+      "bytes": 1905112,
+      "sha256": "485906b680ccc44b0622b64bd72e4d5a343c11afc3d4a510cd615897fa2d3e08",
+      "status": "ok"
+    },
+    {
+      "title": "Alfabeto da galinha",
+      "category": "Apostilas",
+      "path": "pdfs/leona/apostila-06.pdf",
+      "url": "https://cantinhodaprofjuliana.com.br/pdfs/leona/apostila-06.pdf",
+      "bytes": 3743410,
+      "sha256": "39b02bf6014e6185672d7fc2998c7b4a0e7fe5377c8477f15561fc657a68fb83",
+      "status": "ok"
+    },
+    {
+      "title": "Atividades de matemÃ¡tica",
+      "category": "Apostilas",
+      "path": "pdfs/leona/apostila-18.pdf",
+      "url": "https://cantinhodaprofjuliana.com.br/pdfs/leona/apostila-18.pdf",
+      "bytes": 186574,
+      "sha256": "25ed30bb28120ecbdac728f502afdedd32cbf34392cd365e8d7a287cdf9dbe38",
+      "status": "ok"
+    },
+    {
+      "title": "Bichinhos de rolinho",
+      "category": "Apostilas",
+      "path": "pdfs/leona/apostila-19.pdf",
+      "url": "https://cantinhodaprofjuliana.com.br/pdfs/leona/apostila-19.pdf",
+      "bytes": 3126055,
+      "sha256": "21aceef5e2b541f8828a1320b272fecda97d24aec6c4e82e8c4dab6e6511f9fa",
+      "status": "ok"
+    },
+    {
+      "title": "Brincadeiras: memÃ³rias afetivas",
+      "category": "Apostilas",
+      "path": "pdfs/leona/apostila-16.pdf",
+      "url": "https://cantinhodaprofjuliana.com.br/pdfs/leona/apostila-16.pdf",
+      "bytes": 1218072,
+      "sha256": "db4c89269723056d5a22e432522e993fbf2219eb220d0e91c7ca03fd6c1dbbcb",
+      "status": "ok"
+    },
+    {
+      "title": "Caderno de caligrafia",
+      "category": "Apostilas",
+      "path": "pdfs/leona/apostila-15.pdf",
+      "url": "https://cantinhodaprofjuliana.com.br/pdfs/leona/apostila-15.pdf",
+      "bytes": 177876,
+      "sha256": "f4cfc89ea23adb4939ec5b8a81c74c66d21e6b35dc430e2fc4b4d6afdc8e2397",
+      "status": "ok"
+    },
+    {
+      "title": "CaÃ§a-palavras com tampinhas",
+      "category": "Apostilas",
+      "path": "pdfs/leona/apostila-05.pdf",
+      "url": "https://cantinhodaprofjuliana.com.br/pdfs/leona/apostila-05.pdf",
+      "bytes": 844035,
+      "sha256": "1b0fc6d868aea8073968d34088b8f691537bcb15c4b289801df9f3f640c9b975",
+      "status": "ok"
+    },
+    {
+      "title": "Fio de macarrÃ£o e cabelo maluco",
+      "category": "Apostilas",
+      "path": "pdfs/leona/apostila-01.pdf",
+      "url": "https://cantinhodaprofjuliana.com.br/pdfs/leona/apostila-01.pdf",
+      "bytes": 6680170,
+      "sha256": "44c122f785b0394759453b39862dd7cb55ef11f337424b56b9195acdfcd0ab8f",
+      "status": "ok"
+    },
+    {
+      "title": "Forme as palavras",
+      "category": "Apostilas",
+      "path": "pdfs/leona/apostila-08.pdf",
+      "url": "https://cantinhodaprofjuliana.com.br/pdfs/leona/apostila-08.pdf",
+      "bytes": 2710709,
+      "sha256": "ba5dbf3f48aa482751643b6e6487be8d9ff1630015f1fa5231b6ae2c65a6af39",
+      "status": "ok"
+    },
+    {
+      "title": "Moldes: memÃ³rias afetivas",
+      "category": "Apostilas",
+      "path": "pdfs/leona/apostila-17.pdf",
+      "url": "https://cantinhodaprofjuliana.com.br/pdfs/leona/apostila-17.pdf",
+      "bytes": 169306,
+      "sha256": "1fb2e8c761959981dd996f1ee8abfa6490592bcd66e6199e603fd4cc01c2a1e7",
+      "status": "ok"
+    },
+    {
+      "title": "Palavras fatiadas",
+      "category": "Apostilas",
+      "path": "pdfs/leona/apostila-07.pdf",
+      "url": "https://cantinhodaprofjuliana.com.br/pdfs/leona/apostila-07.pdf",
+      "bytes": 2455141,
+      "sha256": "a226d448ba34be7a7e378179d1a7f0b38b121c81177819a5c7ad4da56bc5e066",
+      "status": "ok"
+    },
+    {
+      "title": "Pintura mÃ¡gica com gotas",
+      "category": "Apostilas",
+      "path": "pdfs/leona/apostila-02.pdf",
+      "url": "https://cantinhodaprofjuliana.com.br/pdfs/leona/apostila-02.pdf",
+      "bytes": 3242794,
+      "sha256": "df73e6b39ca1a0c2266c4ce412871f028488503748b54777be1750ce4d0015e7",
+      "status": "ok"
+    },
+    {
+      "title": "Borboleta de duas cores",
+      "category": "Artes",
+      "path": "pdfs/artes/borboleta-simetrica.pdf",
+      "url": "https://cantinhodaprofjuliana.com.br/pdfs/artes/borboleta-simetrica.pdf",
+      "bytes": 44840,
+      "sha256": "f71e39cdc9314114127ca46eb462177284ed7fa61ac1a05ca19b8c85fb1b5287",
+      "status": "ok"
+    },
+    {
+      "title": "Jardim de carimbos",
+      "category": "Artes",
+      "path": "pdfs/artes/jardim-de-carimbos.pdf",
+      "url": "https://cantinhodaprofjuliana.com.br/pdfs/artes/jardim-de-carimbos.pdf",
+      "bytes": 45955,
+      "sha256": "572c33df237be119eaa58ca266e4d9460a2dd805c83de21810eb8f1efb45df4e",
+      "status": "ok"
+    },
+    {
+      "title": "Mosaico de formas",
+      "category": "Artes",
+      "path": "pdfs/artes/mosaico-de-formas.pdf",
+      "url": "https://cantinhodaprofjuliana.com.br/pdfs/artes/mosaico-de-formas.pdf",
+      "bytes": 44835,
+      "sha256": "c00affd08d90481f27a7a3f590c0601f64f7643c8a1c3d72bf9361e7d458302a",
+      "status": "ok"
+    },
+    {
+      "title": "Peixinho de colagem",
+      "category": "Artes",
+      "path": "pdfs/artes/peixinho-de-colagem.pdf",
+      "url": "https://cantinhodaprofjuliana.com.br/pdfs/artes/peixinho-de-colagem.pdf",
+      "bytes": 45023,
+      "sha256": "d1fc642019bedd2c2315ea4e08c471d6354026f7b9ab1df3c56be924f5828d46",
+      "status": "ok"
+    },
+    {
+      "title": "Rostinhos e emoÃ§Ãµes",
+      "category": "Artes",
+      "path": "pdfs/artes/rostinhos-e-emocoes.pdf",
+      "url": "https://cantinhodaprofjuliana.com.br/pdfs/artes/rostinhos-e-emocoes.pdf",
+      "bytes": 45449,
+      "sha256": "e082965a9b0277524a4851332cbaffc9a6ed920b7c75be48b599b5638a88aad4",
+      "status": "ok"
+    },
+    {
+      "title": "A arca dos animais em pares",
+      "category": "Atividades",
+      "path": "pdfs/a-arca-dos-animais-em-pares.pdf",
+      "url": "https://cantinhodaprofjuliana.com.br/pdfs/a-arca-dos-animais-em-pares.pdf",
+      "bytes": 56890,
+      "sha256": "db54cb167f31e5e9f7e0514cab2813a6fac43a868187ab949efa3ae74908cf8e",
+      "status": "ok"
+    },
+    {
+      "title": "As casinhas das vogais",
+      "category": "Atividades",
+      "path": "pdfs/as-casinhas-das-vogais.pdf",
+      "url": "https://cantinhodaprofjuliana.com.br/pdfs/as-casinhas-das-vogais.pdf",
+      "bytes": 55159,
+      "sha256": "157b83f0061efd1fcbc0422f4c4c4ce95ccfe89cc8ad30fe520886602cbfb079",
+      "status": "ok"
+    },
+    {
+      "title": "Bingo das descobertas sensoriais",
+      "category": "Atividades",
+      "path": "pdfs/bingo-das-descobertas-sensoriais.pdf",
+      "url": "https://cantinhodaprofjuliana.com.br/pdfs/bingo-das-descobertas-sensoriais.pdf",
+      "bytes": 15371,
+      "sha256": "9c298b11d8b97d25a48e3d3daebf1ea92e2ce7427bdf5ec2bd1f62e479b91198",
+      "status": "ok"
+    },
+    {
+      "title": "Caminho atÃ© BelÃ©m",
+      "category": "Atividades",
+      "path": "pdfs/caminho-ate-belem.pdf",
+      "url": "https://cantinhodaprofjuliana.com.br/pdfs/caminho-ate-belem.pdf",
+      "bytes": 10039,
+      "sha256": "5f314ecc47c06bdd77b50ed08e2b7df210a734d9e97cd44ff118be8cbe707861",
+      "status": "ok"
+    },
+    {
+      "title": "Costurando o cÃ©u",
+      "category": "Atividades",
+      "path": "pdfs/costurando-o-ceu.pdf",
+      "url": "https://cantinhodaprofjuliana.com.br/pdfs/costurando-o-ceu.pdf",
+      "bytes": 59941,
+      "sha256": "99350ee780d5ec1d0f1eff375ff28de6a5149b7906de587672a057f421748bec",
+      "status": "ok"
+    },
+    {
+      "title": "Detetives do som inicial",
+      "category": "Atividades",
+      "path": "pdfs/detetives-do-som-inicial.pdf",
+      "url": "https://cantinhodaprofjuliana.com.br/pdfs/detetives-do-som-inicial.pdf",
+      "bytes": 55111,
+      "sha256": "3f0616bc01c3ef5c52724433ba534f8139ed7ddf8df67c7c0092c42f319e3158",
+      "status": "ok"
+    },
+    {
+      "title": "Lavanderia das cores",
+      "category": "Atividades",
+      "path": "pdfs/lavanderia-das-cores.pdf",
+      "url": "https://cantinhodaprofjuliana.com.br/pdfs/lavanderia-das-cores.pdf",
+      "bytes": 52962,
+      "sha256": "4c5599959f8a8049dfcb58bc28d8ff90e8ee3caaa03b08d2eec0ca800b62b2d1",
+      "status": "ok"
+    },
+    {
+      "title": "Mapa dos sons do jardim",
+      "category": "Atividades",
+      "path": "pdfs/mapa-dos-sons-do-jardim.pdf",
+      "url": "https://cantinhodaprofjuliana.com.br/pdfs/mapa-dos-sons-do-jardim.pdf",
+      "bytes": 48501,
+      "sha256": "6988d28ff2627910ba23abf53e358c0fd7d82b29c47c22d8ec3346e7c013d82d",
+      "status": "ok"
+    },
+    {
+      "title": "Meu primeiro tapete de papel",
+      "category": "Atividades",
+      "path": "pdfs/meu-primeiro-tapete-de-papel.pdf",
+      "url": "https://cantinhodaprofjuliana.com.br/pdfs/meu-primeiro-tapete-de-papel.pdf",
+      "bytes": 49572,
+      "sha256": "e835e40989b22606420830e284639f48f99b04db1372e3f17b1e765d6a58399c",
+      "status": "ok"
+    },
+    {
+      "title": "MÃ£os Ã  obra!",
+      "category": "Atividades",
+      "path": "pdfs/brincar-com-massinha.pdf",
+      "url": "https://cantinhodaprofjuliana.com.br/pdfs/brincar-com-massinha.pdf",
+      "bytes": 4576937,
+      "sha256": "60d5011b135ca12818dfab07b8b58e9bc148168b2f64f8f442e7eacdf2c45ebe",
+      "status": "ok"
+    },
+    {
+      "title": "MÃ£os Ã  obra!",
+      "category": "Atividades",
+      "path": "pdfs/cabelo-maluco.pdf",
+      "url": "https://cantinhodaprofjuliana.com.br/pdfs/cabelo-maluco.pdf",
+      "bytes": 1909673,
+      "sha256": "97f62d98c7463f2c175f0252518585eff1ad5471968a69c4be9b83566f3f2071",
+      "status": "ok"
+    },
+    {
+      "title": "MÃ£os Ã  obra!",
+      "category": "Atividades",
+      "path": "pdfs/colecao-maos-a-obra.pdf",
+      "url": "https://cantinhodaprofjuliana.com.br/pdfs/colecao-maos-a-obra.pdf",
+      "bytes": 11140593,
+      "sha256": "25fd44f5fd874cbff865f61b68ee7b048f40abec0ca726ec8f746d941e09d366",
+      "status": "ok"
+    },
+    {
+      "title": "MÃ£os Ã  obra!",
+      "category": "Atividades",
+      "path": "pdfs/fio-de-macarrao.pdf",
+      "url": "https://cantinhodaprofjuliana.com.br/pdfs/fio-de-macarrao.pdf",
+      "bytes": 4786452,
+      "sha256": "a0c98ed0424d00dc640a7881e82fdbea6aabcc22e9f01957b4a3ccdc1e5661ae",
+      "status": "ok"
+    },
+    {
+      "title": "Pintura mÃ¡gica com rÃ©gua",
+      "category": "Atividades",
+      "path": "pdfs/pintura-magica-com-regua.pdf",
+      "url": "https://cantinhodaprofjuliana.com.br/pdfs/pintura-magica-com-regua.pdf",
+      "bytes": 97472,
+      "sha256": "c1574eec1595523ae7c30c625076d38d207e010ef9a6152800d51b0859163be6",
+      "status": "ok"
+    },
+    {
+      "title": "Piquenique das quantidades",
+      "category": "Atividades",
+      "path": "pdfs/piquenique-das-quantidades.pdf",
+      "url": "https://cantinhodaprofjuliana.com.br/pdfs/piquenique-das-quantidades.pdf",
+      "bytes": 63479,
+      "sha256": "521356963c43a283da7792e7a877c8c55afcd2449271f9a298c880abbead37aa",
+      "status": "ok"
+    },
+    {
+      "title": "Tesouros de formas da natureza",
+      "category": "Atividades",
+      "path": "pdfs/tesouros-de-formas-da-natureza.pdf",
+      "url": "https://cantinhodaprofjuliana.com.br/pdfs/tesouros-de-formas-da-natureza.pdf",
+      "bytes": 12243,
+      "sha256": "d653f332983b853a3a8d98352ea18462f9e33f4c0fbc9a04bc041583b3a2d263",
+      "status": "ok"
+    },
+    {
+      "title": "Trem dos nÃºmeros perdidos",
+      "category": "Atividades",
+      "path": "pdfs/trem-dos-numeros-perdidos.pdf",
+      "url": "https://cantinhodaprofjuliana.com.br/pdfs/trem-dos-numeros-perdidos.pdf",
+      "bytes": 14017,
+      "sha256": "b94117afe980225f7b2318a183494fdbeafcd8794418e51ae6bcdd06785fbd01",
+      "status": "ok"
+    },
+    {
+      "title": "Trilha das texturas gentis",
+      "category": "Atividades",
+      "path": "pdfs/trilha-das-texturas-gentis.pdf",
+      "url": "https://cantinhodaprofjuliana.com.br/pdfs/trilha-das-texturas-gentis.pdf",
+      "bytes": 53984,
+      "sha256": "44412e6f8b08cee21bb387505d7734126136e8eb59d2c6d383dfbdf332aec238",
+      "status": "ok"
+    },
+    {
+      "title": "TrÃªs novas descobertas para hoje.",
+      "category": "Atividades",
+      "path": "pdfs/caminhos-da-borboleta.pdf",
+      "url": "https://cantinhodaprofjuliana.com.br/pdfs/caminhos-da-borboleta.pdf",
+      "bytes": 47930,
+      "sha256": "03da3b53961cbeb1c58078742e59eeab98fa53d2a89fd5d57031fbfc0ba18133",
+      "status": "ok"
+    },
+    {
+      "title": "TrÃªs novas descobertas para hoje.",
+      "category": "Atividades",
+      "path": "pdfs/complete-os-padroes.pdf",
+      "url": "https://cantinhodaprofjuliana.com.br/pdfs/complete-os-padroes.pdf",
+      "bytes": 46166,
+      "sha256": "02ae63fbe30955f4178e305a594fa66f1b583bff6d2abdb4fde9d50ad42c8c67",
+      "status": "ok"
+    },
+    {
+      "title": "TrÃªs novas descobertas para hoje.",
+      "category": "Atividades",
+      "path": "pdfs/jardim-dos-numeros.pdf",
+      "url": "https://cantinhodaprofjuliana.com.br/pdfs/jardim-dos-numeros.pdf",
+      "bytes": 52599,
+      "sha256": "19610002a5fae68f6572b68fb1e03346cbbe6cdfa5bf3a28c01ce0237845a343",
+      "status": "ok"
+    },
+    {
+      "title": "A bolinha de Natal",
+      "category": "Natal",
+      "path": "pdfs/natal/bolinha-de-natal-com-tutorial.pdf",
+      "url": "https://cantinhodaprofjuliana.com.br/pdfs/natal/bolinha-de-natal-com-tutorial.pdf",
+      "bytes": 514607,
+      "sha256": "2eecf9921c1e128c1bf1d0d2224ef412c5f36e748a5f6790abf64c6d5c6cc53e",
+      "status": "ok"
+    }
+  ]
+}
